@@ -37,7 +37,7 @@ class ViewController extends Controller
             users.id='.$userID.'');
         sleep(8);
         return view('gift',['users'=>$users]);
-    }
+    } 
     
     
 }

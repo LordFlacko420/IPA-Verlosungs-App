@@ -24,3 +24,5 @@ Route::get('gewinner','App\Http\Controllers\ViewController@index')->middleware('
 Route::get('gift', 'App\Http\Controllers\ViewController@check')->middleware('auth');
 Route::post('edit','App\Http\Controllers\ViewController@update')->middleware('auth');
 
+
+
