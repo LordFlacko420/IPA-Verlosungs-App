@@ -24,7 +24,7 @@ class ViewController extends Controller
             where
             users.id='.$userID.'');
         return view('gift',['users'=>$users]);
-        
+         
     }
     public function update(){
         $userID = Auth::user()->id;

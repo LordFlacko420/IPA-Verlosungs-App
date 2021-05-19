@@ -25,6 +25,7 @@
                                                     <tr class="table100-head">
                                                       <th class="column1">Personen</th>
                                                         <th class="column2">Geschenke</th>
+                                                        
                                                     </tr>
                                                   </thead>
                                                   <tbody>
